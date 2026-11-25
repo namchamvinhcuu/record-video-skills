@@ -1,0 +1,8 @@
+{
+  "name": "record-video-skills",
+  "version": "0.1.0",
+  "description": "Skill that lets QA/QC staff ask Claude Code to record a user-manual video of a web app flow: a real isolated browser, a visible arrow cursor, one narration cue per click and subtitles burned in, one language per video.",
+  "author": {
+    "name": "Autonsi"
+  }
+}

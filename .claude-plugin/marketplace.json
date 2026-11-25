@@ -1,0 +1,14 @@
+{
+  "name": "record-video",
+  "description": "Claude Code skills for recording user-manual videos of a web app flow.",
+  "owner": {
+    "name": "Autonsi"
+  },
+  "plugins": [
+    {
+      "name": "record-video-skills",
+      "source": "./",
+      "description": "Record user-manual videos of a screen flow with a real isolated browser: guided tour, visible arrow cursor, one narration cue per click, burned-in subtitles."
+    }
+  ]
+}

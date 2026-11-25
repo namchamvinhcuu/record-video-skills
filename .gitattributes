@@ -1,0 +1,5 @@
+# Windows batch files must have CRLF line endings whatever the user's git settings are (an LF-only .cmd with
+# labels can fail with "cannot find the batch label"); shell scripts must keep LF.
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.sh  text eol=lf
